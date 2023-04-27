@@ -1,0 +1,31 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(151, 158, 111) ;
+    height: 550px;
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10px 20px;
+    margin-top: 50px;
+    padding-top: 50px;
+    border-radius: 20px;
+
+}
+.item img {
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+}
+.item button{
+    background-color: rgb(103, 142, 165);
+    width: 440px;
+    
+    padding: 2px;
+    border: none;
+    height: 50px;
+    border-radius: 20px;
+}
